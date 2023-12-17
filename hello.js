@@ -9,7 +9,13 @@ console.log('20 + 20');
 console.log('Coding Rocks!')
 console.log("I Love Coding, Coding Rocks!!")
 console.log("Quoth the Raven, Nevermore!!!")
-
+console.log('20' + '20')
+console.log('Hello, JavaScript.');
+console.log(2001);
+console.log("What","do","commas","do?");
+console.log("Does", "adding",      "space", "matter?");
+console.log('Launch' + 'Code');
+console.log("LaunchCode was founded in", 2013);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
