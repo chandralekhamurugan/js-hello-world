@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("‘Hello, World!")
+console.log('‘Hello, World!');
+console.log('20 + 20');
+console.log('Coding Rocks!')
+console.log("I Love Coding, Coding Rocks!!")
+console.log("Quoth the Raven, Nevermore!!!")
 
 /*  
 Next, PLAY! 
